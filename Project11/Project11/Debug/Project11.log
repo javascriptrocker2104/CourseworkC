@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Users\Анна\Documents\Институт\Лабораторные работы по информатике\2 семестр\Project11\Project11\Source.cpp(21,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  in_out.cpp
+  tabl.cpp
+  Создание кода...
+  Project11.vcxproj -> C:\Users\Анна\Documents\Институт\Лабораторные работы по информатике\2 семестр\Project11\Debug\Project11.exe
